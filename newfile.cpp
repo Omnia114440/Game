@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int my_sum(int a , int b , int c);
+int my_sum2(int a , int b , int c);
 
 int main()
 {
@@ -12,7 +12,7 @@ int main()
 }
 
 
-int my_sum(int a ,int b, int c)
+int my_sum2(int a ,int b, int c)
 {
 
 return a+b+c;
